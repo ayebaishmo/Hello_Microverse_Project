@@ -1,2 +1,5 @@
 # Ignore all files that end with .md
-*.md
+*test.md
+
+# Ignore node modules file
+*node_modules

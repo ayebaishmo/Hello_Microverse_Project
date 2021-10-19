@@ -11,6 +11,8 @@ This project is learning setup for microverse student on how
 - Write a descriptive and easy to understand README in business English for every project submitted.
 - Demonstrate an ability to submit a project for code review.
 
+![screenshot of the site](/img/screen_shot.PNG)
+
 In this project, you will set up a "Hello world" repository
 
 - Added three files that include html file, css file and test.md file

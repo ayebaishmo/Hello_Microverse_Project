@@ -1,0 +1,5 @@
+# Ignore all files test.md file
+*test.md
+
+# Ignore node modules file
+*node_modules/
